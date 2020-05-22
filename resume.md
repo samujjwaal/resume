@@ -12,7 +12,7 @@ Graduate Computer Science Student actively looking for Summer 2020 Internship op
 
 **University of Illinois at Chicago, Illinois** *Expected May 2021*
 
-**Master of Science in Computer Science** *GPA: 3.33/4\
+**Master of Science in Computer Science** *GPA: 3.42/4\
 *
 
 ***University of Mumbai (VESIT)**, **India** Jul 2015 -- Jun 2019*
@@ -29,10 +29,14 @@ Graduate Computer Science Student actively looking for Summer 2020 Internship op
 ACADEMIC PROJECTS]{.underline}**
 
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
+| **Web Search Engine on UIC Domain (Python, nltk, beautifulsoup4, Jupyter)**                                                                           | **https://git.io/Jf2bm** |
+|                                                                                                                                                       |                          |
+| **Web search engine to retrieve most relevant webpages for user search query, from webpages crawled on the UIC domain**                               |                          |
++=======================================================================================================================================================+==========================+
 | **Design Pattern generator IntelliJ plugin (Java, JavaPoet, Gradle, IntelliJ Platform SDK)**                                                          | **https://git.io/JfO6O** |
 |                                                                                                                                                       |                          |
 | **Object-oriented design and implementation of an IntelliJ Plugin for a Design Pattern Code Generator with a type name clash checking functionality** |                          |
-+=======================================================================================================================================================+==========================+
++-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
 | **Design Pattern Generator (Java, JavaPoet, sbt)**                                                                                                    | **https://git.io/JfO6B** |
 |                                                                                                                                                       |                          |
 | **Object-oriented design and implementation of a Design Pattern Code Generator**                                                                      |                          |
@@ -51,9 +55,9 @@ ACADEMIC PROJECTS]{.underline}**
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
 | **US Election Data Exploration and Modelling (Python, sklearn,** **matplotlib, Jupyter)**                                                             | **https://git.io/JfO6z** |
 |                                                                                                                                                       |                          |
-| **Data Modelling on 2016 US Election Data and US Demographic Data. Creating regression, classification and clustering models.**                       |                          |
+| **Data Modelling on 2016 US Election Data and US Demographic Data. Creating regression, classification, and clustering models.**                      |                          |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
-| **Visualizing fluid particle flow (Javascript, HTML, Three.js, D3.js)**                                                                               | **https://git.io/JfO62** |
+| **Visualizing fluid-particle flow (Javascript, HTML, Three.js, D3.js)**                                                                               | **https://git.io/JfO62** |
 |                                                                                                                                                       |                          |
 | **Visualizing a computational fluid flow dataset from the San Diego Supercomputing Center**                                                           |                          |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
@@ -64,10 +68,6 @@ ACADEMIC PROJECTS]{.underline}**
 | **Water Catchment Control (Python, Folium, Flask, Azure ML Studio)**                                                                                  | **https://git.io/JfO6V** |
 |                                                                                                                                                       |                          |
 | **A system to predict if a region is a drought-prone area using its climatic parameters from APIs**                                                   |                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
-| **Electricity Consumption System (PHP, HTML, jQuery, SQL)**                                                                                           | **https://git.io/JfO6w** |
-|                                                                                                                                                       |                          |
-| **Web application to help users monitor their domestic electricity consumption to check against faulty power bills and power thefts in India**        |                          |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
 
 **[INTERNSHIP EXPERIENCE\
