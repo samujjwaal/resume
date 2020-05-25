@@ -4,16 +4,11 @@
   ----------------------------------------------------------------------------------- -----------------------------------------
   LinkedIn : [linkedin.com/in/samujjwaal/](https://www.linkedin.com/in/samujjwaal/)   GitHub: <https://github.com/samujjwaal>
 
-**[SUMMARY]{.underline}**
-
-Graduate Computer Science Student actively looking for Summer 2020 Internship opportunities
-
 **[EDUCATION]{.underline}**
 
 **University of Illinois at Chicago, Illinois** *Expected May 2021*
 
-**Master of Science in Computer Science** *GPA: 3.42/4\
-*
+**Master of Science in Computer Science** *GPA: 3.42/4*
 
 ***University of Mumbai (VESIT)**, **India** Jul 2015 -- Jun 2019*
 
@@ -21,9 +16,9 @@ Graduate Computer Science Student actively looking for Summer 2020 Internship op
 
 **[TECHNICAL SKILLS]{.underline}**
 
-  **Proficient:**   Python, Java, **numpy, pandas, nltk, sklearn, matplotlib,** D3.js, Three.js, HTML, CSS, JavaScript, MySQL, Git, **Azure ML Studio**,
-  ----------------- --------------------------------------------------------------------------------------------------------------------------------------
-  **Familiar:**     R, PHP, C++, Scala, LabVIEW
+  **Proficient:**   Python, Java, **numpy, pandas, nltk, BeautifulSoup, sklearn, matplotlib,** D3.js, Three.js, HTML, CSS, JavaScript, MySQL, Git, **Azure ML Studio**
+  ----------------- ----------------------------------------------------------------------------------------------------------------------------------------------------
+  **Familiar:**     R, PHP, C++, Scala, Bootstrap, LabVIEW
 
 **[\
 ACADEMIC PROJECTS]{.underline}**
@@ -33,25 +28,21 @@ ACADEMIC PROJECTS]{.underline}**
 |                                                                                                                                                       |                          |
 | **Web search engine to retrieve most relevant webpages for user search query, from webpages crawled on the UIC domain**                               |                          |
 +=======================================================================================================================================================+==========================+
-| **Design Pattern generator IntelliJ plugin (Java, JavaPoet, Gradle, IntelliJ Platform SDK)**                                                          | **https://git.io/JfO6O** |
+| **Design Pattern Generator IntelliJ plugin (Java, JavaPoet, Gradle, IntelliJ Platform SDK)**                                                          | **https://git.io/JfO6O** |
 |                                                                                                                                                       |                          |
 | **Object-oriented design and implementation of an IntelliJ Plugin for a Design Pattern Code Generator with a type name clash checking functionality** |                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
-| **Design Pattern Generator (Java, JavaPoet, sbt)**                                                                                                    | **https://git.io/JfO6B** |
-|                                                                                                                                                       |                          |
-| **Object-oriented design and implementation of a Design Pattern Code Generator**                                                                      |                          |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
 | **Vector Space Retrieval Model on Cranfield corpus (Python, nltk, Jupyter)**                                                                          | **https://git.io/JfO6R** |
 |                                                                                                                                                       |                          |
 | **Implementing Vector Space Retrieval Model using TF-IDF and cosine similarity**                                                                      |                          |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
-| **Text Processing of CiteSeer corpus (Python, nltk, Jupyter)**                                                                                        | **https://git.io/JfO60** |
-|                                                                                                                                                       |                          |
-| **Tokenizing text and determining the word frequencies for all the words in the collection**                                                          |                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
 | **Spam Email Classifier (Python, sklearn,** **matplotlib, Jupyter)**                                                                                  | **https://git.io/JfO6u** |
 |                                                                                                                                                       |                          |
 | **Machine Learning Model to classify emails as spam or non-spam**                                                                                     |                          |
++-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
+| **Visualizing Radiation Therapy Plan Data (Javascript, HTML, Three.js, D3.js)**                                                                       | **https://git.io/JfO6a** |
+|                                                                                                                                                       |                          |
+| **Identifying Similarities and Dissimilarities between UIC/MDACC RT Plan Data**                                                                       |                          |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
 | **US Election Data Exploration and Modelling (Python, sklearn,** **matplotlib, Jupyter)**                                                             | **https://git.io/JfO6z** |
 |                                                                                                                                                       |                          |
@@ -61,17 +52,12 @@ ACADEMIC PROJECTS]{.underline}**
 |                                                                                                                                                       |                          |
 | **Visualizing a computational fluid flow dataset from the San Diego Supercomputing Center**                                                           |                          |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
-| **Visualizing Radiation Therapy Plan Data (Javascript, HTML, Three.js, D3.js)**                                                                       | **https://git.io/JfO6a** |
-|                                                                                                                                                       |                          |
-| **Identifying Similarities and Dissimilarities between UIC/MDACC RT Plan Data**                                                                       |                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
 | **Water Catchment Control (Python, Folium, Flask, Azure ML Studio)**                                                                                  | **https://git.io/JfO6V** |
 |                                                                                                                                                       |                          |
 | **A system to predict if a region is a drought-prone area using its climatic parameters from APIs**                                                   |                          |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
 
-**[INTERNSHIP EXPERIENCE\
-]{.underline}**
+**[INTERNSHIP EXPERIENCE]{.underline}**
 
 **Summer Project Trainee, Bhabha Atomic Research Centre, India May 2018 *--* Jul 2018\
 **Radiation and Photochemistry Division
@@ -81,21 +67,33 @@ ACADEMIC PROJECTS]{.underline}**
 -   Converted existing LabWindows code for nano voltmeter, milliammeter and current source into LabVIEW code\
     to make operations faster and help scientists record more precise observations
 
--   Designed a common control dashboard for the instruments using LabVIEW
-
-**Team Member & Leader, AIESEC Navi Mumbai, India Jul 2016 *--* Aug 2017**
-
-Operations Incoming Global Volunteers
-
--   Conducted Skype interviews to select potential international volunteers for a Mumbai based Women Empowerment NGO
-
--   Kept track of International Relations with AIESEC local chapters of other nations
-
 **Junior Data Analyst Intern, Nuclei Technologies, India Jun 2016 *--* Jul 2016**
 
 -   Received hands-on training on R and studied various data collection and data preparation methods
 
 -   Researched how to develop a stock market prediction model on R
+
+**[RESEARCH EXPERIENCE]{.underline}**
+
+-   **Electricity Consumption and Home Automation** under Prof. Dr. Mrs. Gresha Bhatia **Aug 2017 *--* Jan 2019**
+
+    -   Designed a web application to help users monitor their domestic electricity consumption to check against faulty power bills and power thefts in India
+
+    -   **Published Springer paper "Interactive Electricity Consumption System" at [SSIC 2019](https://link.springer.com/chapter/10.1007/978-981-13-8406-6_35)**
+
+-   **Catchment Control and Water Supply Management under Prof. Richard Joseph Jul 2018 *--* Apr 2019**
+
+    -   **Developed an Azure ML model to predict if a region is a drought-prone area using its climatic parameters**
+
+    -   **Performed a comparative study of classification algorithms to determine the most optimal for our use case**
+
+    -   **Presented IEEE paper "Water Catchment Control and Management" at [ICICT 2018](https://drive.google.com/file/d/1DmvfcpfR3A3kKmmuqQ5aVTwOjuAyanbt/view?usp=sharing) (not published yet)**
+
+**[GRANTS RECEIVED]{.underline}**
+
+-   **AI for Earth Azure Compute Grant worth \$15,000 awarded by Microsoft & National Geographic for the project "Water Supply Management and Catchment Control in Drought Prone Regions of Rural India"**
+
+-   **UGC Minor Research Grant awarded by the University of Mumbai for the project "Electricity Consumption and Home Automation" under domains of Machine Learning and Internet of Things**
 
 **Catchment Control and Water Supply Management Jul 2018 *--* Apr 2019\
 Final Year Project, VESIT**
