@@ -1,3 +1,7 @@
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+![GitHub repo size](https://img.shields.io/github/repo-size/samujjwaal/resume)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/samujjwaal/resume/master)
+
 # [Samujjwaal’s][linkedin] [Résumé][url]
 
 ## GitHub repository to host and manage versions of my [Résumé][resume-pdf]
