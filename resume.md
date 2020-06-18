@@ -16,46 +16,46 @@
 
 **[TECHNICAL SKILLS]{.underline}**
 
-  **Proficient:**   Python, Java, **numpy, pandas, nltk, BeautifulSoup, sklearn, matplotlib,** D3.js, Three.js, HTML, CSS, JavaScript, MySQL, Git, **Azure ML Studio**
-  ----------------- ----------------------------------------------------------------------------------------------------------------------------------------------------
-  **Familiar:**     R, PHP, C++, Scala, Bootstrap, LabVIEW
+  **Proficient:**   Python, Java, HTML, CSS, JavaScript, **NumPy, Pandas, nltk, BeautifulSoup, sklearn, Tkinter, matplotlib,** D3.js, Three.js, MySQL, Git, **Azure ML Studio, Jupyter**
+  ----------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Familiar:**     C++, R, PHP, Scala, Bootstrap, LabVIEW
 
 **[\
 ACADEMIC PROJECTS]{.underline}**
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
-| **Web Search Engine on UIC Domain (Python, nltk, beautifulsoup4, Jupyter)**                                                                           | **https://git.io/Jf2bm** |
-|                                                                                                                                                       |                          |
-| **Web search engine to retrieve most relevant webpages for user search query, from webpages crawled on the UIC domain**                               |                          |
-+=======================================================================================================================================================+==========================+
-| **Design Pattern Generator IntelliJ plugin (Java, JavaPoet, Gradle, IntelliJ Platform SDK)**                                                          | **https://git.io/JfO6O** |
-|                                                                                                                                                       |                          |
-| **Object-oriented design and implementation of an IntelliJ Plugin for a Design Pattern Code Generator with a type name clash checking functionality** |                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
-| **Vector Space Retrieval Model on Cranfield corpus (Python, nltk, Jupyter)**                                                                          | **https://git.io/JfO6R** |
-|                                                                                                                                                       |                          |
-| **Implementing Vector Space Retrieval Model using TF-IDF and cosine similarity**                                                                      |                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
-| **Spam Email Classifier (Python, sklearn,** **matplotlib, Jupyter)**                                                                                  | **https://git.io/JfO6u** |
-|                                                                                                                                                       |                          |
-| **Machine Learning Model to classify emails as spam or non-spam**                                                                                     |                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
-| **Visualizing Radiation Therapy Plan Data (Javascript, HTML, Three.js, D3.js)**                                                                       | **https://git.io/JfO6a** |
-|                                                                                                                                                       |                          |
-| **Identifying Similarities and Dissimilarities between UIC/MDACC RT Plan Data**                                                                       |                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
-| **US Election Data Exploration and Modelling (Python, sklearn,** **matplotlib, Jupyter)**                                                             | **https://git.io/JfO6z** |
-|                                                                                                                                                       |                          |
-| **Data Modelling on 2016 US Election Data and US Demographic Data. Creating regression, classification, and clustering models.**                      |                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
-| **Visualizing fluid-particle flow (Javascript, HTML, Three.js, D3.js)**                                                                               | **https://git.io/JfO62** |
-|                                                                                                                                                       |                          |
-| **Visualizing a computational fluid flow dataset from the San Diego Supercomputing Center**                                                           |                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
-| **Water Catchment Control (Python, Folium, Flask, Azure ML Studio)**                                                                                  | **https://git.io/JfO6V** |
-|                                                                                                                                                       |                          |
-| **A system to predict if a region is a drought-prone area using its climatic parameters from APIs**                                                   |                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
+| **Web Search Engine on UIC Domain (Python, nltk, beautifulsoup4, Jupyter)**                                                                           | [**https://git.io/Jf2bm**](https://git.io/Jf2bm) |
+|                                                                                                                                                       |                                                  |
+| **Web search engine to retrieve most relevant webpages for a user search query, from webpages crawled on the UIC domain**                             |                                                  |
++=======================================================================================================================================================+==================================================+
+| **Design Pattern Generator IntelliJ plugin (Java, JavaPoet, Gradle, IntelliJ Platform SDK)**                                                          | [**https://git.io/JfO6O**](https://git.io/JfO6O) |
+|                                                                                                                                                       |                                                  |
+| **Object-oriented design and implementation of an IntelliJ Plugin for a Design Pattern Code Generator with a type name clash checking functionality** |                                                  |
++-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
+| **Vector Space Retrieval Model on Cranfield corpus (Python, nltk, Jupyter)**                                                                          | [**https://git.io/JfO6R**](https://git.io/JfO6R) |
+|                                                                                                                                                       |                                                  |
+| **Implementing a Vector Space Retrieval Model using TF-IDF and cosine similarity**                                                                    |                                                  |
++-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
+| **Spam E-mail Classifier (Python, sklearn,** **matplotlib, Jupyter)**                                                                                 | [**https://git.io/JfO6u**](https://git.io/JfO6u) |
+|                                                                                                                                                       |                                                  |
+| **Machine Learning Model to classify e-mails as spam or non-spam**                                                                                    |                                                  |
++-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
+| **Visualizing Radiation Therapy Plan Data (Javascript, HTML, Three.js, D3.js)**                                                                       | [**https://git.io/JfO6a**](https://git.io/JfO6a) |
+|                                                                                                                                                       |                                                  |
+| **Identifying Similarities and Dissimilarities between UIC/MDACC RT Plan Data**                                                                       |                                                  |
++-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
+| **US Election Data Exploration and Modelling (Python, sklearn,** **matplotlib, Jupyter)**                                                             | [**https://git.io/JfO6z**](https://git.io/JfO6z) |
+|                                                                                                                                                       |                                                  |
+| **Data Modelling on 2016 US Election Data and US Demographic Data. Creating regression, classification, and clustering models.**                      |                                                  |
++-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
+| **Visualizing fluid-particle flow (Javascript, HTML, Three.js, D3.js)**                                                                               | [**https://git.io/JfO62**](https://git.io/JfO62) |
+|                                                                                                                                                       |                                                  |
+| **Visualizing a computational fluid flow dataset from the San Diego Supercomputing Center**                                                           |                                                  |
++-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
+| **Water Catchment Control (Python, Folium, Flask, Azure ML Studio)**                                                                                  | [**https://git.io/JfO6V**](https://git.io/JfO6V) |
+|                                                                                                                                                       |                                                  |
+| **A system to predict if a region is a drought-prone area using its climatic parameters from APIs**                                                   |                                                  |
++-------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
 
 **[INTERNSHIP EXPERIENCE]{.underline}**
 
