@@ -1,154 +1,98 @@
-**[SAMUJJWAAL DEY]{.ul}**
+[SAMUJJWAAL DEY](https://samujjwaal.me)
 
-+1 312 975 4411 \| <sdey9@uic.edu> \| [linkedin.com/samujjwaal](https://www.linkedin.com/in/samujjwaal/) \| [github.com/samujjwaal](https://github.com/samujjwaal) \| [samujjwaal.tech](https://samujjwaal.tech/)
++1-224-484-9321 \| <deysamujjwal@gmail.com> \| [LinkedIn](https://www.linkedin.com/in/samujjwaal/) \| [GitHub](https://github.com/samujjwaal?tab=repositories)
 
 **[EDUCATION]{.ul}**
 
-**University of Illinois at Chicago, Illinois** Expected May 2021
+**Master of Science** in **Computer Science \|** *University of Illinois at Chicago (UIC), Illinois* Aug 2019 -- May 2021
 
-**Master of Science in Computer Science** GPA: 3.44/4
+Coursework: Introduction to Data Science, Information Retrieval, Statistical Natural Language Processing, Deep Learning for Computer Vision, Cloud Computing, Object-Oriented Programming, Knowledge Graphs, Visual Data Science, Computer Algorithms
 
-**University of Mumbai (VESIT)**, **India** Jul 2015 -- Jun 2019
+**Bachelor of Engineering** in **Computer Engineering \|** *University of Mumbai (VESIT), India* Jul 2015 -- May 2019
 
-> **Bachelor of Engineering in Computer Engineering** CGPA: 8.40/10
+Relevant Coursework: Data Structures, Database Management Systems, Artificial Intelligence, Soft Computing, Data Warehouse and Mining, Software Engineering, Parallel and Distributed Systems
 
 **[TECHNICAL SKILLS]{.ul}**
 
-  **Proficient:**   Python, Java, HTML, CSS, JavaScript, NumPy, Pandas, BeautifulSoup, sklearn, Tkinter, D3.js, Three.js, SQL, Git, Azure ML Studio, Jupyter
-  ----------------- ------------------------------------------------------------------------------------------------------------------------------------------
-  **Familiar:**     C++, R, Octave, Scala, PHP, Bootstrap, JSON, PowerBI, LabVIEW, OpenCV, Flask, Shiny, Android
+**Languages, databases, software, OS:** Python, Scala, Java, C++, R \| SQL, MySQL \| Docker, Git, Jupyter, Octave \| Linux, Windows
+
+**Data science:** Numpy, Pandas, SciPy \| Data visualization (Matplotlib, Seaborn, D3.js, Three.js) \| Statistical Modeling \| Regression, Classification, Clustering \| Hypothesis Testing \| Exploratory Data Analysis \| Computer Vision (OpenCV)
+
+**Machine learning**: Scikit-learn \| Deep Learning (PyTorch, Keras) \| NLP (HuggingFace, Transformers, NLTK, SpaCy)
+
+**Others:** Cloud (Azure ML, AWS EC2, S3, EMR) \| Apache Hadoop, Spark \| Akka \| Javascript, HTML, CSS \| Gradle, sbt \| JUnit
 
 **[\
-ACADEMIC PROJECTS]{.ul}**
+SELECTED PROJECTS]{.ul}**
 
-+------------------------------------------------------------------------------------------------------------------------------+------------------------+
-| **Map Reduce on DBLP data** (Scala, Hadoop, sbt)                                                                             | <https://git.io/JtNzW> |
-|                                                                                                                              |                        |
-| Hadoop MapReduce computational model to perform analyses on DBLP publication data.                                           |                        |
-+==============================================================================================================================+========================+
-| **Cloud Sim Plus Cloud Simulators** (Scala, sbt)                                                                             | <https://git.io/JtS4B> |
-|                                                                                                                              |                        |
-| Simulating executions of applications in cloud data centers with different deployment models.                                |                        |
-+------------------------------------------------------------------------------------------------------------------------------+------------------------+
-| **Typesafe Github GraphQL Frontend** (Scala, GraphQL, sbt)                                                                   | <https://git.io/JJhpZ> |
-|                                                                                                                              |                        |
-| A type-safe read-only frontend to build GitHub\'s GraphQL queries.                                                           |                        |
-+------------------------------------------------------------------------------------------------------------------------------+------------------------+
-| **Web Search Engine on UIC Domain** (Python, nltk, beautifulsoup4, Jupyter)                                                  | <https://git.io/Jf2bm> |
-|                                                                                                                              |                        |
-| Web search engine to retrieve most relevant webpages for a user search query, from webpages crawled on the UIC domain        |                        |
-+------------------------------------------------------------------------------------------------------------------------------+------------------------+
-| **Design Pattern Generator IntelliJ plugin** (Java, JavaPoet, Gradle, IntelliJ Platform SDK)                                 | <https://git.io/JfO6O> |
-|                                                                                                                              |                        |
-| An IntelliJ Plugin for a Design Pattern Code Generator                                                                       |                        |
-+------------------------------------------------------------------------------------------------------------------------------+------------------------+
-| **Vector Space Retrieval Model on Cranfield corpus** (Python, nltk, Jupyter)                                                 | <https://git.io/JfO6R> |
-|                                                                                                                              |                        |
-| Implementing a Vector Space Retrieval Model using TF-IDF and cosine similarity                                               |                        |
-+------------------------------------------------------------------------------------------------------------------------------+------------------------+
-| **Spam E-mail Classifier** (Python, sklearn, matplotlib, Jupyter)                                                            | <https://git.io/JfO6u> |
-|                                                                                                                              |                        |
-| Machine Learning Model to classify e-mails as spam or non-spam                                                               |                        |
-+------------------------------------------------------------------------------------------------------------------------------+------------------------+
-| **Visualizing Radiation Therapy Plan Data** (Javascript, HTML, Three.js, D3.js)                                              | <https://git.io/JfO6a> |
-|                                                                                                                              |                        |
-| Identifying Similarities and Dissimilarities between UIC/MDACC RT Plan Data                                                  |                        |
-+------------------------------------------------------------------------------------------------------------------------------+------------------------+
-| **US Election Data Exploration and Modelling** (Python, sklearn, matplotlib, Jupyter)                                        | <https://git.io/JfO6z> |
-|                                                                                                                              |                        |
-| Data Modelling on 2016 US Election Data and US Demographic Data. Creating regression, classification, and clustering models. |                        |
-+------------------------------------------------------------------------------------------------------------------------------+------------------------+
-| **Visualizing fluid-particle flow** (Javascript, HTML, Three.js, D3.js)                                                      | <https://git.io/JfO62> |
-|                                                                                                                              |                        |
-| Visualizing a computational fluid flow dataset from the San Diego Supercomputing Center                                      |                        |
-+------------------------------------------------------------------------------------------------------------------------------+------------------------+
+**[Multilingual Chatbot](https://github.com/samujjwaal/multilingual-chatbot)** \| *Python, Keras, Transformers, TkInter*
 
-**[INTERNSHIP EXPERIENCE]{.ul}**
+-   Implemented a conversational multilingual chatbot capable of responding to user queries in more than one language
 
-**Summer Project Trainee, Bhabha Atomic Research Centre, India May 2018 -- Jul 2018\
-**Radiation and Photochemistry Division
+-   Experimented with **Transformer** models mBART, T5 & OPUS-MT for **language detection** and **translation**. Trained a **Keras** Sequential 3-layer **neural network** model using **Stochastic Gradient Descent** optimization
 
--   Developed a Data Acquisition system using LabVIEW for a Low-Temperature Measurement setup
+**[Overlay Network Simulator using Akka](https://github.com/samujjwaal/akka-overlay-net-sim)** \| *Scala, Akka, Akka-HTTP, sbt, Docker, ScalaTest*
 
--   Converted existing LabWindows code for nano voltmeter, milliammeter and current source into LabVIEW code\
-    to make operations faster and help domain scientists record more precise observations
+-   Simulated distributed hash tables using **Chord** and **CAN** overlay network algorithms with **Akka actor** as an abstraction for 25 nodes. Incorporated **Akka-HTTP** to expose hash table functions as REST API for **asynchronous read/write** requests
 
-**Junior Data Analyst Intern, Nuclei Technologies, India Jun 2016 -- Jul 2016**
+-   Containerized the application and runtime dependencies using Docker and deployed on **DockerHub** & **AWS EC2**. Integrated Bitbucket Pipelines/GitHub Actions to automate **CI/CD workflows** for build & deployment
 
--   Received hands-on training on R and studied various data collection and data preparation methods
+**[MapReduce on DBLP data](https://github.com/samujjwaal/dblp-mapreduce)** \| *Scala, Hadoop, sbt, AWS EMR, ScalaTest*
 
--   Researched how to develop a stock market prediction model on R
+-   Leveraged **Apache Hadoop** and **Scala** to parse & analyze **2 million** DBLP publication records using the **MapReduce** framework, and deployed on an **AWS Elastic Map Reduce** cluster
 
-**[RESEARCH EXPERIENCE]{.ul}**
+-   Performed analytics to identify top authors & publications, and authors & publications with most co-authors at each venue
 
--   **Catchment Control and Water Supply Management** under Prof. Richard Joseph **Jul 2018 -- Apr 2019**
+**[Cloud Sim Plus Cloud Simulators](https://github.com/samujjwaal/cloud-simulators)** \| *Java,* *Scala, sbt, ScalaTest*
 
-    -   Developed an Azure ML model to predict if a region is a drought-prone area using its climatic parameters
+-   Simulated execution of 50 cloudlets on **cloud infrastructure** using Cloud Sim Plus framework. Conceptualized 8 datacenters on a mix of **SaaS**, **PaaS** & **IaaS** architecture models using different policies and constraints for VM allocation and execution
 
-    -   Performed a comparative study of classification algorithms to determine the most optimal for our use case
+-   Evaluated 5 optimal **pricing models** and **load balancing heuristics** to maximize performance at reduced expenses
 
-    -   Presented IEEE paper \"Water Catchment Control and Management\" at [ICICT 2018](https://drive.google.com/file/d/1DmvfcpfR3A3kKmmuqQ5aVTwOjuAyanbt/view?usp=sharing) (not published yet)
+**[Web Search Engine on UIC Domain](https://github.com/samujjwaal/uic-search-engine)** \| *Python, Nltk, beautifulsoup*
 
--   **Electricity Consumption and Home Automation** under Prof. Dr. Mrs. Gresha Bhatia **Aug 2017 -- Jan 2019**
+-   Devised a scalable **web crawler** to traverse and retrieve **6,000 web pages** on the UIC domain using a **breadth-first** strategy
 
-    -   Designed a web application to help users monitor their domestic electricity consumption to check against faulty power bills and power thefts in India
+-   Executed **tokenization** and **stemming** to index **168,833 unique tokens** into a **TF-IDF** vector-space model. Achieved average precision of **90%** for the top 10 most relevant web pages retrieved for search queries
 
-    -   Published Springer paper \"Interactive Electricity Consumption System\" at [SSIC 2019](https://link.springer.com/chapter/10.1007/978-981-13-8406-6_35)
+**[PageRank on WWW conference corpus](https://github.com/samujjwaal/PageRank-WWW-Corpus)** \| *Python, Nltk, NetworkX*
 
-**[GRANTS RECEIVED]{.ul}**
+-   **Parsed** & loaded each document from the **1,300+** WWW conference abstracts into **undirected word graphs**
 
--   *[AI for Earth Azure Compute Grant]{.ul}* worth \$15,000 awarded by Microsoft & National Geographic for the project \"Water Supply Management and Catchment Control in Drought Prone Regions of Rural India\"
+-   Executed **PageRank** on each word graph & **scored n-grams** formed from adjacent words. Calculated **Mean Reciprocal Rank** for top-k ranked n-grams using an author annotated gold standard
 
--   *[UGC Minor Research Grant]{.ul}* awarded by the University of Mumbai for the project \"Electricity Consumption and Home Automation\" under domains of Machine Learning and Internet of Things
+**Spam E-mail Classifier** \| *Python, Scikit-learn, Matplotlib, Pandas*
 
-**Catchment Control and Water Supply Management Jul 2018 -- Apr 2019**\
-Final Year Project, VESIT
+-   Trained machine learning models to classify if emails are spam or not spam using **4600 emails** in Spambase data set
 
--   Implemented a system to predict if a region is a drought-prone area using its climatic parameters viz. rainfall, groundwater level, temperature, humidity, and soil type and suggest suitable catchment areas for it
+-   Leveraged supervised algorithms **Decision Tree**, **K-Nearest Neighbor**, **Naive Bayes**, **SVM** & attained test accuracy of **92%**
 
--   Used Azure ML Studio to train the machine learning model, deployed it using an API key and developed a Folium based Python web app to display results
+**[US Election Data Exploration and Modelling](https://github.com/samujjwaal/Modelling-US-Election-Data)** \| *Python, Sklearn, Matplotlib, Pandas*
 
--   Performed a comparative study of ML algorithms to determine the most optimal for this use case.
+-   Performed data **preprocessing** & **Exploratory Data Analysis** on 2018 US Midterm Election Results & US Demographic Data
 
--   Received \$15,000 funding from Microsoft & National Geographic under AI for Earth Grants scheme
+-   Built **Regression**, **Classification** & **Clustering** models to **predict winning party** with a test accuracy of **85%**
 
--   Presented IEEE paper \"Water Catchment Control and Management\" at ICICT 2018
+**[EXPERIENCE]{.ul}**
 
-**Electricity Consumption and Home Automation Aug 2017 -- Mar 2018**
+**Undergraduate Research Assistant** under Prof. Richard Joseph Jul 2018 -- Apr 2019
 
-Third Year Project, VESIT
+-   Architected **Azure ML** predictive model as an API to forecast drought-prone regions using weather data of the past **25 years**
 
--   Implemented a web application to help users monitor their domestic electricity consumption to check against faulty power bills and power thefts in India
+-   Achieved test accuracies of **92%** & **94%** on the dataset with **SVM** and two-class **decision tree** models respectively
 
--   Designed a dashboard UI using HTML, CSS, and JavaScript for users to visualize the power consumption of their appliances and proposed a new format for a power bill
+-   Received **AI for Earth** Azure Compute Grant worth \$15,000 from **Microsoft** & **National Geographic**
 
--   Received Minor Research Grant under domains of Machine Learning and Internet of Things from the University of Mumbai
+**Summer Project Trainee, Bhabha Atomic Research Centre, India** May 2018 -- Jul 2018
 
--   Presented Springer paper \"Interactive Electricity Consumption System\" at SSIC 2019 and IEEE paper \"Interactive Electricity Consumption Analysis System\" at ICICT 2018
+-   Facilitated the optimization of a **data acquisition pipeline** for Low-Temperature Calorimetry experiments in 6 weeks
 
-**[INTERNSHIP EXPERIENCE\
-]{.ul}**
+-   Migrated LabWindows code into **LabVIEW** for nano voltmeter, milliammeter, and current source resulting in 70% performance improvement of data acquisition and increased numeric precision of experimental observations
 
-**Summer Project Trainee, Bhabha Atomic Research Centre, India May 2018 -- Jul 2018\
-**Radiation and Photochemistry Division
+**Undergraduate Research Assistant** under Prof. Dr. Mrs. Gresha Bhatia Aug 2017 -- Mar 2018
 
--   Developed a Data Acquisition system using LabVIEW for a Low-Temperature Measurement setup
+-   Designed a web app for users to monitor the **daily electricity consumption** of appliances & check against faulty power bills
 
--   Converted existing LabWindows code for nano voltmeter, milliammeter and current source into LabVIEW code\
-    to make operations faster and help scientists record more precise observations
+-   Awarded UGC **Minor Research Grant** by University of Mumbai under domains of Machine Learning & Internet of Things
 
--   Designed a common control dashboard for the instruments using LabVIEW
-
-**Team Member & Leader, AIESEC Navi Mumbai, India Jul 2016 -- Aug 2017**
-
-Operations Incoming Global Volunteers
-
--   Conducted Skype interviews to select potential international volunteers for a Mumbai based Women Empowerment NGO
-
--   Kept track of International Relations with AIESEC local chapters of other nations
-
-**Junior Data Analyst Intern, Nuclei Technologies, India Jun 2016 -- Jul 2016**
-
--   Received hands-on training on R and studied various data collection and data preparation methods
-
--   Researched how to develop a stock market prediction model on R
+-   Published Springer paper **Interactive Electricity Consumption System** at [SSIC 2019](https://link.springer.com/chapter/10.1007/978-981-13-8406-6_35)
